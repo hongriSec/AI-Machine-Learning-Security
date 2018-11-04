@@ -10,13 +10,13 @@
 
 | 周期     | 主题         | 分析内容                             | 参考链接 | 人员参与 | 完成状态 |
 | -------- | ------------ | ------------------------------------ | -------- | -------- | -------- |
-| 第一周期 | Web恶意流量  | **隐马尔可夫模型**                   | 1，3，4  |          |          |
+| 第一周期 | Web恶意流量  | **隐马尔可夫模型**                   | 1，3，4,13,14  |          |          |
 | 第二周期 | 日志分析     | **逻辑回归、支持向量机和朴素贝叶斯** | 2        |          |          |
 | 第三周期 | 异常模型     |                                      |          |          |          |
 | 第四周期 | Webshell检测 | **scikit-learn 朴素贝叶斯算法**      | 5，7     |          |          |
 | 第五周期 | 恶意文件检测 |                                      |          |          |          |
 | 第六周期 | 渗透工具     | **朴素贝叶斯  cloudwalker**          | 6        |          |          |
-| 第七周期 | 垃圾邮件     | **TF-IDF模型、朴素贝叶斯**           | 8，9，10 |          |          |
+| 第七周期 | 垃圾邮件     | **TF-IDF模型、朴素贝叶斯**           | 8，9，10,15,16 |          |          |
 | 第八周期 | 暴力破解     | **决策树算法、随机森林算法**         | 11       |          |          |
 | 第九周期 | AI+大数据    | **Logstash、Kafka、Storm、Spark**    | 12       |          |          |
 | 第十周期 | 其它攻击     |                                      |          |          |          |
@@ -33,3 +33,7 @@
 10. https://zhuanlan.zhihu.com/p/29463011
 11. https://www.jianshu.com/p/c5a55e2ac771
 12. https://www.freebuf.com/articles/web/134334.html
+13.https://www.freebuf.com/column/132796.html
+14.https://www.freebuf.com/column/134319.html
+15.https://www.freebuf.com/column/135863.html
+16.https://www.freebuf.com/column/135850.html
