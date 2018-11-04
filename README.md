@@ -33,7 +33,7 @@
 10. https://zhuanlan.zhihu.com/p/29463011
 11. https://www.jianshu.com/p/c5a55e2ac771
 12. https://www.freebuf.com/articles/web/134334.html
-13.https://www.freebuf.com/column/132796.html
-14.https://www.freebuf.com/column/134319.html
-15.https://www.freebuf.com/column/135863.html
-16.https://www.freebuf.com/column/135850.html
+13. https://www.freebuf.com/column/132796.html
+14. https://www.freebuf.com/column/134319.html
+15. https://www.freebuf.com/column/135863.html
+16. https://www.freebuf.com/column/135850.html
