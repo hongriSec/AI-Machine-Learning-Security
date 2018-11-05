@@ -37,3 +37,25 @@
 14. https://www.freebuf.com/column/134319.html
 15. https://www.freebuf.com/column/135863.html
 16. https://www.freebuf.com/column/135850.html
+
+
+## 项目维护
+
+- 小峰（团队[@红日](http://sec-redclub.com/))
+
+
+## 免责说明
+
+**请勿用于非法的用途，否则造成的严重后果与本项目无关**
+
+## 转载
+
+**转载请注明来自**
+
+https://github.com/hongriSec/AI-Machine-Learning-Security/
+
+## 投搞
+
+**欢迎大家投搞**
+
+sec-redclub@qq.com
