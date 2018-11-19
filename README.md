@@ -8,7 +8,8 @@
 
 第一部分主要介绍常见机器学习算法，简单模型、以及机器学习如何分析Web异常流量，并把机器学习结合到大数据中。另外团队分析常见渗透测试工具中，常用的机器学习模型，最后学习所用，把机器算法结合到红日安全自动化红鹰安全工具。
 
-- [红日安全]AI安全Day1-机器学习算法在web安全中的应用
+- [[红日安全]AI安全Day1-机器学习算法在web安全中的应用](https://github.com/hongriSec/AI-Machine-Learning-Security/blob/master/Part1/%5B%E7%BA%A2%E6%97%A5%E5%AE%89%E5%85%A8%5DAI%E5%AE%89%E5%85%A8Day1-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%9C%A8web%E5%AE%89%E5%85%A8%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.docx)
+- [[红日安全]AI安全Day2-基于机器学习的攻击检测系统](https://github.com/hongriSec/AI-Machine-Learning-Security/blob/master/Part1/day2/%E7%BA%A2%E6%97%A5AI%E5%AE%89%E5%85%A8-%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf)
 
 
 | 周期     | 主题         | 分析内容                             | 参考链接 | 负责人 | 完成状态 |
