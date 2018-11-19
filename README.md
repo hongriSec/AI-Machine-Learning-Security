@@ -15,7 +15,7 @@
 ## 周期规划
 第一周期规划（负责人吴西）
 
-- [HMM识别恶意流量任务计划]()
+- [[红日安全]周期Day1-HMM识别恶意流量任务计划](https://github.com/hongriSec/AI-Machine-Learning-Security/blob/master/Part1/%E5%91%A8%E6%9C%9F%E8%A7%84%E5%88%92/HMM%E8%AF%86%E5%88%AB%E6%81%B6%E6%84%8F%E6%B5%81%E9%87%8F%E4%BB%BB%E5%8A%A1%E8%AE%A1%E5%88%92(3).pdf)
 
 
 
