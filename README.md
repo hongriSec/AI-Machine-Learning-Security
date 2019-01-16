@@ -13,11 +13,13 @@
 
 
 ## 周期规划
-第一周期规划（负责人吴西）
+*第一周期规划（负责人吴西）*
 
 - [[红日安全]周期Day1-HMM识别恶意流量任务计划](https://github.com/hongriSec/AI-Machine-Learning-Security/blob/master/Part1/%E5%91%A8%E6%9C%9F%E8%A7%84%E5%88%92/HMM%E8%AF%86%E5%88%AB%E6%81%B6%E6%84%8F%E6%B5%81%E9%87%8F%E4%BB%BB%E5%8A%A1%E8%AE%A1%E5%88%92(3).pdf)
 
-- [[红日安全]周期Day2-基于机器学习对Web日志的分析识别](https://github.com/hongriSec/AI-Machine-Learning-Security/blob/master/Part1/%E5%91%A8%E6%9C%9F%E8%A7%84%E5%88%92/%E5%91%A8%E6%9C%9FDay2-%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AF%B9Web%E6%97%A5%E5%BF%97%E7%9A%84%E5%88%86%E6%9E%90%E8%AF%86%E5%88%AB.pdf.pdf)
+*第二周期规划（负现人Haoooo)*
+
+- [[红日安全]周期Day2-基于机器学习对Web日志的分析识别](https://github.com/hongriSec/AI-Machine-Learning-Security/blob/master/Part1/%E5%91%A8%E6%9C%9F%E8%A7%84%E5%88%92/%E5%91%A8%E6%9C%9FDay2-%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AF%B9Web%E6%97%A5%E5%BF%97%E7%9A%84%E5%88%86%E6%9E%90%E8%AF%86%E5%88%AB.pdf)
 
 
 | 周期     | 主题         | 分析内容                             | 参考链接 | 负责人 | 完成状态 |
